@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yagami.xyz	TRUE	/	FALSE	1999999999	__cfduid	d9a3e8f551fe3d68a5fafe268a250af001611930271
+yagami.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+.codepen.io	TRUE	/	FALSE	1999999999	__cfduid	d813df0ab8c24d927071a475a5f02b6e51611930273
+static.codepen.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
